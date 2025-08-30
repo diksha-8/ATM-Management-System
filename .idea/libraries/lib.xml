@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/ATM-Simulator-System-master/ATM-Simulator-System/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/ATM-Simulator-System-master/ATM-Simulator-System/lib" recursive="false" />
+  </library>
+</component>
